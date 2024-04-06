@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@virtual-protocol/react-virtual-ai": "^0.0.106"
+  }
+}
