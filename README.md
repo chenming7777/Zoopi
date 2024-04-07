@@ -8,7 +8,7 @@ Game features
 Zoopi comes in  an onchain, DAO-based, virtual pet game with the features of combating, pet traveling for resources gathering, and pet interacting for more user engagement like play, feed bath, evolve. Our player marketplace allows users to trade and earn with a comprehensive market analysis. Lastly, we have more side feature which maximizes can the nurturing experience, player engagement and strengthen the pet player relationship
 
 MVP Feature
-Zoopi is more than that we provide a DAO community for users to vote next updates and allow developers and artists to submit their arts and codes.  Besides, we integrated  AI into the pet which can chat and react, making it more realistic and interactive to maximize the game engagement. This isn't just a game. It is the next step in digital companionship, where every pet has a soul.
+Zoopi is more than that we provide a DAO community for users to vote next updates and allow developers and artists to submit their arts and codes.  Besides, we integrated  AI into the pet which can chat and react, making it more realistic and interactive to maximize the game engagement. This isn't just a game. It is the next step in digital companionship, where every pet has a soul. Our AI integrated model is implemented with the Virtual Protocol https://www.virtuals.io/ . Thnx to their virtual avatar so that we can make a new and more realistic AI pet with the idea of it. We believe in future where more AI Avatar in virtual protocol we can have all our ZOOPI there making all zoopi alive and it is all the automation process that AI generated NFT and visual， motion, and audio。
 
 
 BUSINESS MODEL
@@ -19,4 +19,6 @@ Solana provides comprehensive developer tools and documentation like GameShift w
 SOLANA SAGA for a scalable, fast, cheap, transparent with technology of Prove of History resulting a good platform for Zoopi to build.
 
 Our three major teams Develop Team, UI/UX team,Marketing team will run concurrent to ensure our app can be publish punctually and flawlessly. We provide social marketing, air-drop, KOL test play etc to hit our 100 user and slowly grow to 100k.
+
+
 
